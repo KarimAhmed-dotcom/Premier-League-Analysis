@@ -20,6 +20,9 @@ The data used in this analysis is sourced from [FBref](https://fbref.com/en/comp
 
 I scraped this data , If you want to see how I did it you can visit my web scraping repo 
 
+## Data 
+you can see requirements.txt
+
 ## Dependencies
 
 The notebooks in this repository have the following dependencies:
