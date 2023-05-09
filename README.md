@@ -18,7 +18,7 @@ There are three Jupyter notebooks in this repository:
 
 The data used in this analysis is sourced from [FBref](https://fbref.com/en/comps/9/Premier-League-Stats) . The data is provided in CSV format and is included in the `data` folder of this repository. 
 
-I scraped this data , If you want to see how I did it you can visit my web scraping repo 
+I scraped this data , If you want to see how I did it you can visit my web scraping repo https://github.com/KarimAhmed-dotcom/Web-Scraping/tree/main/premier%20league%20scraping
 
 ## Requirements
 you can see requirements.txt
